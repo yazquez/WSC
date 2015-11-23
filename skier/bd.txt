@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<skier>
+    <majorAchievements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">12 Olympic Medals</majorAchievements>
+    <majorAchievements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">9 World Championships</majorAchievements>
+    <majorAchievements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Winningest Winter Olympian</majorAchievements>
+    <majorAchievements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Greatest Nordic Skier</majorAchievements>
+    <nationalTeam>Spain</nationalTeam>
+    <person>
+        <age>4</age>
+        <gender>Male</gender>
+        <name>Daniel</name>
+    </person>
+</skier>
