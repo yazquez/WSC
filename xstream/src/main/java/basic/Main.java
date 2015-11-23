@@ -12,7 +12,7 @@ public class Main {
         XStream xmlStream = new XStream(new DomDriver());
         xmlStream.alias("skier", PersonNoProps.class); // for readability
 
-        // serialize
+        // serialize to XML
         String xml = xmlStream.toXML(bd);
         System.out.println(xml);
 
